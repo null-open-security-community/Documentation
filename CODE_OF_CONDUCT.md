@@ -12,8 +12,7 @@ We as members, contributors, and leaders pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
 size, visible or invisible disability, ethnicity, sex characteristics, gender
 identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, religion, or sexual identity
-and orientation.
+nationality, personal appearance, race, or religion.
 
 We pledge to act and interact in ways that contribute to an open, welcoming,
 diverse, inclusive, and healthy community.
@@ -30,7 +29,7 @@ diverse, inclusive, and healthy community.
 ### Sales and Marketing:
 * NO SALES PITCH. You can contact the members one on one separately ONLY if that member shows his/her intention of buying any new solution; This group is only for knowledge sharing. We support each other without any commercial intention. We have not created this platform for sales lead, consulting and brand promotion;
 * NO PRODUCT and/or SERVICE PROMOTION. No DIRECT or INDIRECT promotion of product or services in the group. 
-* NO BRAND PROMOTION. Repeated sharing of publicly available information through a company’s URL by its employees or associates will be considered as brand promotion.
+* NO BRAND PROMOTION. Repeated sharing of publicly available information through a company’s URL by its employees or associates will be considered as brand promotion. However, as an exception, the null organization can showcase information related to the official partners.
 
 ### Job Posts:
 * OPEN POSITION. Announcement of open positions. The purpose of this group is not to engage in the solicitation of employment by its members. However, this group permits its members to post open position(s) along with an accurate point of contact for further discussion in order to avoid any further discussion within the group. Interested members should contact the point of contact separately outside the group and avoid any further discussion within the group; Please make use of [the null jobs forum](https://jobs.null.community/) for the purpose.
