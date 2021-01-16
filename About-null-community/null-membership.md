@@ -30,9 +30,9 @@ While the null organization will make diligent efforts to inform members of thei
 
 ## Becoming an Individual Member
 
-Individuals can only become members of the null organization by completing the [Membership Form](https://forms.gle/FZ25rMFvRFTuBYUcA) and paying dues, and complying with the following conditions:
+Individuals can only become members of the null organization by completing the [Membership Form](https://null.community/membership-application) and paying dues, and complying with the following conditions:
 
--   The Applicant agree to the [Code of Conduct](https://github.com/null-open-security-community/Documentation/CODE_OF_CONDUCT.md)
+-   The Applicant agrees to the [Code of Conduct](https://github.com/null-open-security-community/Documentation/CODE_OF_CONDUCT.md)
 
 -   Membership dues are paid by the Applicant.
 
