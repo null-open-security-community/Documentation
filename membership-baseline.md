@@ -15,24 +15,22 @@ At null, we offer a range of exclusive benefits to our members, including:
 
 **Access to Cutting-Edge Security Resources:**
 
-- Online library of security research papers, articles and access to hundreds of events and their resources
-    - https://github.com/null-open-security-community/Documentation/tree/master/null-Research-Papers
-    - https://blog.null.community/
-    - https://null.community/archives
 - Professional mentoring programs
+    - Resume clinic 
+    - MORE TO BE ADDED
 - Priority access to null Study groups
     - Cloud Security
     - Crypto
     - Web application security
     - Container security(WIP)
-- Few other work in progress benefits:
+- Few other benefits we plan to included (WIP):
     - Access to the GitHub Student Pack
     - Visual Studio Benefits, providing you with valuable resources for your security projects.
     - One month free pluralsight membership
     - Free access to security training programs by - <Partner with learning platforms/companies and ask for free training subscriptions>
 - <Add more benefits here> related to learning resources
 
-**Note:** We can not promise the work in progress benefits as it mainly depends on the vendor and their community partnership policy.
+**Note:** We can not promise the work in progress benefits as it mainly depends on the vendor and their community partnership policy. This may or may not happen.
 
 # Networking Opportunities:
 
