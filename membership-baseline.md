@@ -2,7 +2,7 @@
 The null Community operates on a decentralized model where participants play essential roles as volunteers, core team members, and board members. While the community does have a membership program, it's important to note that the majority of our resources and activities are accessible to both members and non-members alike.
 
 ## Membership
-The null Community offers a membership program that provides additional benefits and opportunities for active participants. Members have the privilege of serving as core team members, volunteers, and potentially as board members. However, it's worth emphasizing that membership is not a prerequisite for engaging in most of the community's activities.
+The null Community offers a membership program that provides additional benefits and opportunities for active participants. Members have the privilege of serving as core team members, and potentially as board members. However, it's worth emphasizing that membership is not a prerequisite for engaging in most of the community's activities.
 
 ## Engagement and Access
 We strive to keep our community inclusive and open to all individuals and organizations. Non-members are encouraged to participate in projects, attend meetings, join mailing lists, and take part in events. Most of our resources and activities are readily available to everyone, fostering a collaborative and accessible environment.
