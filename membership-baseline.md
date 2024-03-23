@@ -23,23 +23,20 @@ At null, we offer a range of exclusive benefits to our members, including:
     - Crypto
     - Web application security
     - Container security(WIP)
-- Few other benefits we plan to included (WIP):
+- *Few other benefits we plan to included (WIP):
     - Access to the GitHub Student Pack
     - Visual Studio Benefits, providing you with valuable resources for your security projects.
     - One month free pluralsight membership
     - Free access to security training programs by - <Partner with learning platforms/companies and ask for free training subscriptions>
 - <Add more benefits here> related to learning resources
+- Voting rights in null Global Board elections
+- Complimentary null.community email address
+- *Few other work in progress benefits:
+    - Group insurance: We are currently exploring the possibility of providing group insurance benefits to our community members. Our team is in discussions with insurance providers to offer coverage tailored to the needs of security professionals. Stay tuned for updates on this exciting opportunity!
 
-**Note:** We can not promise the work in progress benefits as it mainly depends on the vendor and their community partnership policy. This may or may not happen.
-
-# Networking Opportunities:
-
-- Engage with like-minded professionals through discussion groups such as Discord, Whatsapp and social media handles
-- Attend chapter wise security community meetups, workshops and various other events. More details at https://null.community/chapters.
-
+**Note:** *We can not promise the work in progress benefits as it mainly depends on the vendor and their community partnership policy. This may or may not happen.
 
 # Discounts and Offers:
-
 - Being part of null gives you an added advantage of getting special priority discounts on global and participating regional security conferences, training programs or any other events with which null has partnered with. Giving you another reason to connect with industry leaders and expand your professional network.
     - Few previous partnership are mentioned below 
         - Nullcon
@@ -47,15 +44,6 @@ At null, we offer a range of exclusive benefits to our members, including:
         - BSides Delhi
         - Threatcon
         - BSides Bangalore
-# Individual Membership Benefits
-
-- Voting rights in null Global Board elections
-- Complimentary null.community email address
-- Few other work in progress benefits:
-    - Group insurance: We are currently exploring the possibility of providing group insurance benefits to our community members. Our team is in discussions with insurance providers to offer coverage tailored to the needs of security professionals. Stay tuned for updates on this exciting opportunity!
-
-
-**Note:** We can not promise the work in  progress benefits as it mainly depends on the vendor and their community partnership policy
 
 # Membership Types and Fees:
 Choose the membership type that suits you best:
@@ -102,7 +90,6 @@ To become a member of null, please follow these steps:
 - Membership dues are the responsibility of the member and cannot be subsidized or funded by Null Community projects, chapters, or events.
 - Members are not affiliated with any specific chapter or project but are considered at-large members upon submission of the membership form.
 - Applicants give their consent to receive communications from the Null Community regarding their membership status.
-- Only eligible individuals will qualify for complimentary, regional, and student memberships.
 - The Null Community is the sole authority in granting memberships. No person or entity other than the Null Community's board can act as a membership agent or confer honorary or complimentary memberships.
 - Fraudulent membership submissions will be revoked by the Null Community without notice and without a refund. Memberships and associated benefits are non-transferable.
 
