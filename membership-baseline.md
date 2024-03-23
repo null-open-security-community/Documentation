@@ -8,7 +8,7 @@ The null Community offers a membership program that provides additional benefits
 We strive to keep our community inclusive and open to all individuals and organizations. Non-members are encouraged to participate in projects, attend meetings, join mailing lists, and take part in events. Most of our resources and activities are readily available to everyone, fostering a collaborative and accessible environment.
 
 ## Membership Benefits
-While most resources are accessible to non-members, becoming a member of the null Community provides additional benefits such as enhanced involvement in core team activities, increased networking opportunities, and the ability to shape the community's direction through potential board membership. Membership also signifies a deeper commitment and dedication to the community's goals and values.
+While most resources are accessible to non-members, becoming a member of the null Community provides additional benefits such as enhanced involvement in core team activities, ablity to vote or stand in election, increased networking opportunities, and the ability to shape the community's direction through potential board membership. Membership also signifies a deeper commitment and dedication to the community's goals and values. 
 
 # Membership Benefits:
 At null, we offer a range of exclusive benefits to our members, including:
